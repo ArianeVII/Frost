@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/neige grosse.obj-e149401f5ef003e4ab8b64c5c5005457.mesh"
+
+[deps]
+
+files=[ "res://.import/neige grosse.obj-e149401f5ef003e4ab8b64c5c5005457.mesh" ]
+
+source_file="res://models/neige grosse.obj"
+dest_files=[ "res://.import/neige grosse.obj-e149401f5ef003e4ab8b64c5c5005457.mesh", "res://.import/neige grosse.obj-e149401f5ef003e4ab8b64c5c5005457.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

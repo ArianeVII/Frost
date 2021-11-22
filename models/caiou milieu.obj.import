@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/caiou milieu.obj-31b76df6b753131aa420409383455ff2.mesh"
+
+[deps]
+
+files=[ "res://.import/caiou milieu.obj-31b76df6b753131aa420409383455ff2.mesh" ]
+
+source_file="res://models/caiou milieu.obj"
+dest_files=[ "res://.import/caiou milieu.obj-31b76df6b753131aa420409383455ff2.mesh", "res://.import/caiou milieu.obj-31b76df6b753131aa420409383455ff2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
